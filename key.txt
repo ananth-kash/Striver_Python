@@ -1,0 +1,2 @@
+Sorting:
+bubblesort-> Bubble Sort: Two loops, swap adjacent, reduce end. Time complexity: Worst is O(n^2)
